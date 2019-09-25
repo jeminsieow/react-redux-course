@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="958e4010-f253-407f-9a17-8b9e5ce2e0d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ninjas.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ninjas.js" afterDir="false" />
@@ -28,7 +29,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -67,7 +68,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569359033684</updated>
-      <workItem from="1569359036678" duration="4503000" />
+      <workItem from="1569359036678" duration="4623000" />
+      <workItem from="1569437141526" duration="32000" />
+      <workItem from="1569437217960" duration="3436000" />
     </task>
     <task id="LOCAL-00001" summary="keep files up to date">
       <created>1569362949624</created>
@@ -76,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569362949624</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added Ninjas component">
+      <created>1569363636611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569363636611</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +97,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -95,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="keep files up to date" />
-    <option name="LAST_COMMIT_MESSAGE" value="keep files up to date" />
+    <MESSAGE value="added Ninjas component" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Ninjas component" />
   </component>
 </project>
