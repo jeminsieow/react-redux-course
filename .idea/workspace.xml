@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="958e4010-f253-407f-9a17-8b9e5ce2e0d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+    <list default="true" id="958e4010-f253-407f-9a17-8b9e5ce2e0d6" name="Default Changelist" comment="added AddNinja container component and deleteNinja function in Ninjas">
+      <change afterPath="$PROJECT_DIR$/src/AddNinja.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ninjas.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ninjas.js" afterDir="false" />
@@ -19,17 +19,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1RIeS4F1Bhdyk07eoSJB8AzkNN6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test app" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,7 +77,8 @@
       <updated>1569359033684</updated>
       <workItem from="1569359036678" duration="4623000" />
       <workItem from="1569437141526" duration="32000" />
-      <workItem from="1569437217960" duration="3436000" />
+      <workItem from="1569437217960" duration="3635000" />
+      <workItem from="1569503522366" duration="12218000" />
     </task>
     <task id="LOCAL-00001" summary="keep files up to date">
       <created>1569362949624</created>
@@ -86,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569363636611</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changed Ninjas to be a UI component instead of a container component">
+      <created>1569440837028</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569440837028</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +123,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="keep files up to date" />
     <MESSAGE value="added Ninjas component" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Ninjas component" />
+    <MESSAGE value="changed Ninjas to be a UI component instead of a container component" />
+    <MESSAGE value="added AddNinja container component and deleteNinja function in Ninjas" />
+    <option name="LAST_COMMIT_MESSAGE" value="added AddNinja container component and deleteNinja function in Ninjas" />
   </component>
 </project>
